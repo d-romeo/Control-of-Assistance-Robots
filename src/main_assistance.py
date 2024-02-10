@@ -22,7 +22,7 @@ class RobotState(Enum):
     GRASP = 5               # Grasp object
     REACH_RELEASE = 6       # Reach the configuration where the object must be released
     RELEASE = 7             # Release the object
-    DELETE = 8
+    DELETE = 8              # Delete object after release
 
 
 
