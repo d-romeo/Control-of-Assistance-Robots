@@ -40,17 +40,3 @@ This project was conducted as part of a **Master’s Degree in Industrial Automa
 
 > The simulation serves as a **foundational step** for the development of a real physical prototype in the future.
 
-
-## 📁 Repository Structure
-
-```bash
-📦Assistive-Robot
- ┣ 📂src
- ┃ ┣ 📜voice_control.py
- ┃ ┣ 📜object_detection.py
- ┃ ┗ 📜robot_controller.py
- ┣ 📂sim_model
- ┃ ┗ 📜CoppeliaSim_scene.ttt
- ┣ 📜README.md
- ┗ 📜requirements.txt
-
