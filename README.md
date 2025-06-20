@@ -36,7 +36,7 @@ The project is structured into the following modules:
 
 ## 🎓 Educational Value
 
-This project was conducted as part of a **Master’s Degree in Industrial Automation**, in collaboration with the **Intelligent Robotics Lab**. It represents an **advanced academic project** combining robotics, artificial intelligence, and user-centered design in healthcare.
+This project was conducted as part of a **Bachelor's degree in Electronics and Computer Engineering**, in collaboration with the **Intelligent Robotics Lab**. It represents an **advanced academic project** combining robotics, artificial intelligence, and user-centered design in healthcare.
 
 > The simulation serves as a **foundational step** for the development of a real physical prototype in the future.
 
